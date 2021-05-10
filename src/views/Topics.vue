@@ -16,10 +16,10 @@
   -->
 <div>
 <v-container>
-    <v-card max-width="1200px" height="50px" class="mt-5" flat>
+    <v-card max-width="1200px" height="50px" class="mt-5 text-h4" flat>
        <v-layout row wrap>
             <v-flex xs12 md6 class="mt-2 ml-5">
-                Most Popular
+                Most Popular--popular
             </v-flex>
         </v-layout>     
     </v-card>
@@ -47,7 +47,7 @@
 
 
 <v-container>
-    <v-card max-width="1200px" height="50px" class="mt-5" flat>
+    <v-card max-width="1200px" height="50px" class="mt-5 text-h4" flat>
        <v-layout row wrap>
             <v-flex xs12 md6 class="mt-2 ml-5">
                 All Topics
